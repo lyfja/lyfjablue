@@ -54,16 +54,14 @@ modules:
     fonts:
         nerd-fonts:
             - FiraCode
+            - FiraMono
             - JetBrainsMono
-            - CaskaydiaMono
-            - GeistMono
-            - SpaceMono
+            - CascadiaMono
+            - CascadiaCode
         google-fonts:
             - IBM Plex Sans
             - IBM Plex Serif
             - IBM Plex Mono
-            - Roboto
-            - Open Sans
 
   - type: bling
     install:
