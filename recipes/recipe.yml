@@ -1,7 +1,7 @@
 # image will be published to ghcr.io/<user>/<name>
 name: lyfjablue
 # description will be included in the image's metadata
-description: (WIP) Lyfja's personal image
+description: (WIP) Lyfja's personal image, KDE Plasma edition.
 
 # the base image to build on top of (FROM) and the version tag to use
 base-image: ghcr.io/ublue-os/kinoite-main
